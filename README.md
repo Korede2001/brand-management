@@ -12,8 +12,9 @@ The growth hacks I ran are described below as well their results and key insight
 
 The treatment title included a digit, following research on the attentional benefit of digits when surrounded by letters (see paper). The control title on the other hand, excluded the digit.
 
-
-<img align="center" src="experiment_titles.png" alt="Experiment Titles">
+<p align="center" width="100%">
+  <img src="experiment_titles.png" alt="Experiment Titles">
+</p>
 
 **Key Metric:** Total number of engagements (retweets + likes + media clicks +link clicks + detail expands)
 
