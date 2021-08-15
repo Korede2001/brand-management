@@ -10,7 +10,7 @@ The growth hacks I ran are described below as well their results and key insight
 
 ### Growth Hack 1: A/B Testing Blog Post Titles on Twitter 
 
-The treatment title included a digit, following research on the attentional benefit of digits when surrounded by letters (see [paper](https://github.com/Korede2001/brand-management/blob/main/B154_%20Growth%20Hack%202%20(1).pdf)). The control title on the other hand, excluded the digit.
+The treatment title included a digit, following research on the attentional benefit of digits when surrounded by letters (see [paper](https://github.com/Korede2001/brand-management/blob/main/B154_%20Growth%20Hack%201%20(1).pdf)). The control title on the other hand, excluded the digit.
 
 <p align="center" width="100%">
   <img src="experiment_titles.png" alt="Experiment Titles">
