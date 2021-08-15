@@ -9,7 +9,7 @@ To grow the brand, I proposed, executed and evaluated growth hacks (aka experime
 The growth hacks I ran are described below as well their results and key insights from the tests:
 
 ### Growth Hack 1: A/B Testing Blog Post Titles on Twitter
----
+***
 The treatment title included a digit, following research on the attentional benefit of digits when surrounded by letters (see paper). The control title on the other hand, excluded the digit.
 
 **Key Metric:** Total number of engagements (retweets + likes + media clicks +link clicks + detail expands)
